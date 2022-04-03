@@ -3,9 +3,9 @@
 
 ## Summary
 
-In this Challenge, we used API requests to gather and visualize data from internet sites:
-- retrieve weather data from OpenWeatherMap API
-- retrieve hotel data from Google's Places API
+In this Challenge, we used API requests to gather and visualize data from internet sources:
+- retrieve weather data using OpenWeatherMap API
+- retrieve hotel data using Google's Places API
 - create map visualizations using Google's Maps JavaScript API and Directions APIs
 - we requested the data in json format, which organizes data in lists and dictionaries
 
