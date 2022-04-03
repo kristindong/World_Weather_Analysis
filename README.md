@@ -21,5 +21,19 @@ In the module but not in the Challenge, we also explored linear regression using
 - regress_values = x_values * slope + intercept
 
 
+Map showing cities where current temperature is between 75 and 90 degrees
+
+![WeatherPy_vacation_map](Vacation_Search/WeatherPy_vacation_map.png)
+
+
+Map showing Google driving route for a sample 4-city itinerary
+
+![WeatherPy_travel_map](Vacation_Itinerary/WeatherPy_travel_map.png)
+
+
+Map showing location and weather condition for the 4 cities
+
+![WeatherPy_travel_map_markers](Vacation_Itinerary/WeatherPy_travel_map_markers.png)
+
 
 
